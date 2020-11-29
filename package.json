@@ -1,0 +1,14 @@
+{
+  "name": "url-linebyline",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "node script.js"
+  },
+  "author": "LioneL Christopher Chetty",
+  "license": "MIT",
+  "dependencies": {
+    "chromedriver": "^87.0.0",
+    "selenium-webdriver": "^4.0.0-alpha.7"
+  }
+}
